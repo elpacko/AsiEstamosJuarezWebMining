@@ -3,5 +3,6 @@ http://docs.tweepy.org/en/v3.6.0/getting_started.html
 curl https://archive.org/wayback/available?url=http://lapolaka.com/junio-violento/
 curl http://web.archive.org/web/20130802025605/http://lapolaka.com:80/junio-violento/
 
+/usr/local/Cellar/elasticsearch/6.4.3: 
 
 https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-snapshots.html
